@@ -1,0 +1,10 @@
+关于GCC的一些属性说明
+https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Function-Attributes.html#Function-Attributes
+关于#pragma的一些说明
+https://gcc.gnu.org/onlinedocs/gcc-5.3.0/gcc/Pragmas.html#Pragmas
+链接脚本
+http://linux.chinaunix.net/techdoc/beginner/2009/08/12/1129972.shtml
+NASA的10条代码编写原则
+https://kb.cnblogs.com/page/568841/
+预处理指令大全
+https://wenku.baidu.com/view/3f34b61352d380eb62946d65.html
